@@ -10,4 +10,22 @@ This is the jupyter notebook in which all unique info for each cruise will be st
 
 The editable info in this notebook is: the lon/lat boundaries, the "csig" or cruise signifier that will be in the title of each plot and the folder you want to create, the name of the float location text file you want to use (entered as a string containing the folder you will be creating, as you should store your text there; 'csig/csig_Float_Locations.txt' should be the format), and then the same for the station location file. If you are not going to use a float text file or a station text file, replace their path names with 'false'.
 
+### Bathy.ipynb
 
+### Curl.ipynb
+
+### Altim.ipynb
+
+### SST.ipynb
+
+### Chloro.ipynb
+
+### MLD.ipynb
+
+### CO2.ipynb
+
+### Fresh.ipynb
+
+### Buoyancy.ipynb
+
+### Heat.ipynb
